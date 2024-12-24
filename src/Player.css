@@ -1,0 +1,11 @@
+.Player {
+    flex-grow: 1;
+    max-width: 300px;
+    font-size: 40pt;
+}
+
+.PlayerText {
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
